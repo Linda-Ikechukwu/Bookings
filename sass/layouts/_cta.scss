@@ -1,0 +1,13 @@
+.cta{
+    padding: 3.5rem 0;
+    text-align: center;
+    background-color: #fff;
+    border-top: var(--custom-border-bottom );
+
+    &__book-now{
+        font-size: 1.2rem;
+        font-weight: bold;
+        text-transform: uppercase;
+        margin-bottom: 2.5rem;
+    }
+}

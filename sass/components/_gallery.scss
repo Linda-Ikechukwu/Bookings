@@ -1,0 +1,13 @@
+.gallery{
+    display: flex;
+
+    &__item{
+        width: 33.3333%;
+    }
+
+    &__photo{
+        width: 100%;
+        display: block;
+        height: 100%;
+    }
+}
